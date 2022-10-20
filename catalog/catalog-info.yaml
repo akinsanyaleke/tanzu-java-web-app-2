@@ -11,7 +11,7 @@ metadata:
     - tanzu
   annotations:
     'backstage.io/kubernetes-label-selector': 'app.kubernetes.io/part-of=tanzu-java-web-app'
-    'github.com/project-slug': 'akinsanyaleke/weather-partner-api'
+    'github.com/project-slug': 'akinsanyaleke/tanzu-java-web-app-2'
 spec:
   type: service
   lifecycle: experimental
